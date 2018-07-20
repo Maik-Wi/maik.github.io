@@ -80,7 +80,7 @@ a.button:hover {
   padding: 0!important;
   background: url(/img.jpg) no-repeat top left;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: contain;
   min-height: 100vh;
   position: relative;
 }
