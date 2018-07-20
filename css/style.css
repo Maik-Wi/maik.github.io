@@ -82,7 +82,6 @@ a.button:hover {
   background-attachment: fixed;
   background-size: contain;
   min-height: 100vh;
-  max-height: 100vh;
   position: relative;
 }
 
