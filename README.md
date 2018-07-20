@@ -1,2 +1,3 @@
-# maik.github.io
-Maklern Git
+# Hier gibt es nichts zu sehen!
+Dieses Repository habe ich nur zum lernen von Git ablegt.
+
