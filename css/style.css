@@ -79,6 +79,7 @@ a.button:hover {
   margin: 0!important;
   padding: 0!important;
   background: url(/img.jpg) no-repeat top left;
+  background-color: #4A4545;
   background-attachment: fixed;
   background-size: contain;
   min-height: 100vh;
