@@ -78,8 +78,9 @@ a.button:hover {
 .balloon {
   margin: 0!important;
   padding: 0!important;
-  background: url(/bg.jpg) repeat-y top left;
-  background: url(/img.jpg) no-repeat top left;
+  background-image: url(/bg.jpg), url(/img.jpg);
+  background-repeat:  repeat-y, no-repeat;
+  background-position: top left, top left;
   background-attachment: fixed;
   background-size: contain;
   min-height: 100vh;
