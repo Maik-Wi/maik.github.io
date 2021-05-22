@@ -50,7 +50,7 @@ reddit: maik_wi
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+# email: myemail@gmail.com
 
 authors:
   johndoe:
@@ -67,7 +67,7 @@ width: normal
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
-  enabled: false
+  enabled: true
   sort_reverse: true # display recent posts first
   title: ":title" # Changing this will mess up the header display logic
   per_page: 5
@@ -77,7 +77,7 @@ pagination:
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+about: false
 blog: true
 
 # do you want to show the "read time" of the posts?
